@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/* CSS Document created by William Walker*/
+
+body {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 2em;
+	color: #DCF7FF;
+	background-color: #6E7B7F;
+	padding: 20px 60px;
+}
+
+/* basic text styles ----------------------------  */
+p, li, td {
+	letter-spacing: 0.1em;
+	color: #a6a6a6;
+}
+h1 {
+	font-size: 28px;
+	padding: 4px 0;
+	font-variant: small-caps;
+	letter-spacing: 0.8em;
+	line-height: 2em;
+}
+h2 {
+	font-size: 24px;
+	padding: 6px;
+	font-variant: small-caps;
+	letter-spacing: 0.8em;
+	background-color: #373E40;
+}
+h3 {
+	font-size: 20px;
+	letter-spacing: 0.8em;
+	border-bottom-width: 1px;
+	border-bottom-style: inset;
+	border-bottom-color: #9B9744;
+	padding: 4px 0;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+/* link styles ---------------------------- */
+a:link {
+	font-weight: bold;
+	color: #C0C0C0;
+	text-decoration: none;
+}
+a:visited {
+	font-weight: bold;
+	color: #C0C0C0;
+	text-decoration: none;
+}
+a:hover {
+	color: #C0C0C0;
+}
+
+/* list styles ----------------------------- */
+ul li {
+	list-style-image: url(images/star.png);
+	margin-left: 12px;
+}
+ol {
+	margin-left: 14px;
+}
+
+/* table styles -------------------------------------- */
+table {
+	border: solid #C0C0C0 1px;
+}
+td {
+	padding: 6px;
+	border: solid #C0C0C0 1px;
+}
+th {
+	font-weight: bold;
+	background-color: #998338;
+	text-align: center;
+	padding: 6px;
+	border: solid #C0C0C0 1px;
+}
+
+/* border styles ------------------------------------ */
+hr {
+	border: solid #C0C0C0 1px;
+}
+
+img {
+	border: solid #C0C0C0 1px;
+
+}
+iframe {
+	border: solid #C0C0C0 1px;
+	padding: 8px;
+	margin: 8px;
+}
+
