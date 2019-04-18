@@ -106,7 +106,7 @@ iframe {
 #container {
 	width: 900px;
 	margin: 0 auto;
-	
+
 	border-style: double; 1px groove #000;
 	background-color: #fff;
 	overflow: hidden;	
@@ -121,7 +121,7 @@ iframe {
 	width: 600px;
 	float: left;
 	padding-bottom: 40px;
-	
+
 	
 }
 
@@ -150,4 +150,3 @@ iframe {
 #footer p{
 	margin: 0;
 }
-
